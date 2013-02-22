@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModernMedicalTest", "ModernMedicalTest\ModernMedicalTest.csproj", "{74ECE3CB-6737-46C9-A9DB-822DFF2A499D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedExtensions", "SharedExtensions\SharedExtensions.csproj", "{7D8B4595-653A-4FBF-9CEB-6290AA4553FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74ECE3CB-6737-46C9-A9DB-822DFF2A499D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74ECE3CB-6737-46C9-A9DB-822DFF2A499D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74ECE3CB-6737-46C9-A9DB-822DFF2A499D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74ECE3CB-6737-46C9-A9DB-822DFF2A499D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D8B4595-653A-4FBF-9CEB-6290AA4553FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8B4595-653A-4FBF-9CEB-6290AA4553FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D8B4595-653A-4FBF-9CEB-6290AA4553FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D8B4595-653A-4FBF-9CEB-6290AA4553FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
